@@ -64,72 +64,40 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AgentPay Shop provides a non-custodial payment layer for AI agents, enabling multi-chain wallets, spending limits, and machine-to-machine transactions. Their platform supports autonomous agents to manage crypto payments securely, with patented technology and integration via the AgentPay MCP Server.
+agentpay-shop is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Payments · Crypto · AI · Non-custodial · AgentPay
+**Areas:** Company
 
 ## agentpay-shop on APIs.io
 
 Everything profiled for agentpay-shop is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentpay-shop/](https://apis.io/providers/agentpay-shop/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [AgentPay API](https://apis.io/apis/agentpay-shop/agentpay-api/) — AgentPay API (no public documentation accessible; site blocked by Cloudflare bot challenge).
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Agentpay Shop Authentication](https://apis.io/security/agentpay-shop/agentpay-shop-authentication/)
 - [Agentpay Shop Domain Security](https://apis.io/security/agentpay-shop/agentpay-shop-domain-security/)
 
-## Where to find this API
+#### Rate limits (1)
 
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+Published request limits.
 
-- [Website](https://github.com/up2itnow0822/agentpay-mcp)
+- [Agentpay Shop Rate Limits](https://apis.io/rate-limits/agentpay-shop/agentpay-shop-rate-limits/)
 
 ## API Evangelist rating
 
-**Kin Score 2.3** — minimal · rubric 0.25.0 · scored 2026-10-30
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 5.0** — Payments
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentpay-shop/](https://apis.io/providers/agentpay-shop/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
